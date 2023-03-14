@@ -1,6 +1,6 @@
 body{
     font-family: 'Montserrat', sans-serif;
-    background-color:#F5F7FA;
+    background-color:#fff5ba;
 }
 /* main styles */
 .main{
@@ -21,7 +21,7 @@ body{
 .main-content{
     background-color: #FFFFFF;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-    padding: 105px 90px;
+    padding: 90px 90px;
 }
 /* about styles */
 
@@ -41,9 +41,9 @@ margin-bottom: 40px;
 .about-name{
     font-style: normal;
     font-weight: 700;
-    font-size: 45px;
+    font-size: 35px;
     line-height: 55px;
-    color: #000000;
+    color: #5b5b63;
     margin-bottom: 25;
 }
 
@@ -114,7 +114,7 @@ margin-bottom: 40px;
     font-weight: 700;
     font-size: 16px;
     line-height: 20px;
-    color: #FB6D3A;
+    color: #1250fa;
 }
 .period{
     font-style: normal;
@@ -152,7 +152,7 @@ margin-bottom: 40px;
     font-weight: 700;
     font-size: 16px;
     line-height: 20px;
-    color: #FB6D3A;
+    color: #1250fa;
     margin-bottom: 11px;
 }
 .speciality{
@@ -174,7 +174,7 @@ margin-bottom: 40px;
 /* sidebar style */
 .sidebar{
     background-color: #1E2939;
-    padding-top: 40px;
+    padding-top: 24px;
     width: 370px;
 }
 .photo{
@@ -208,7 +208,10 @@ margin-bottom: 40px;
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
-    color: #565E6A;
+    color: #787d84;
+}
+.contact-link:hover{
+    color: #FFFFFF
 }
 .tech-skills-list{
     color: #FFFFFF;
